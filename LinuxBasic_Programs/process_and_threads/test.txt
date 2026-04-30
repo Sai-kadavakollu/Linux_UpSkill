@@ -1,0 +1,20 @@
+PCAHRILEDNT  wrwirtiitnigng l ilniene  0 0( P(IPIDD::  55999696696)8)
+
+CPHAIRLDEN Twr wirtiitnign gl ilnien 1e  (1 P(IPD:I D:59 956996696)8
+)
+CHIPLARDE NwTr iwtriintgi nlgi nlei n2e  (2PI (D:PI D5:9 96596996)6
+8)
+CHIPLADR EwNrTi twirnigt ilnign el 3i ne( P3I D(:P I5D9:9 656999)6
+68)
+CHILPDA RwErNiTt iwnrgi tliinnge  l4i n(ePI 4D :( P5I9D9:6 6599)9
+668)
+PARENT writing line 0 (PID: 600365)
+PARENT writing line 1 (PID: 600365)
+PARENT writing line 2 (PID: 600365)
+PARENT writing line 3 (PID: 600365)
+PARENT writing line 4 (PID: 600365)
+CHILD writing line 0 (PID: 600366)
+CHILD writing line 1 (PID: 600366)
+CHILD writing line 2 (PID: 600366)
+CHILD writing line 3 (PID: 600366)
+CHILD writing line 4 (PID: 600366)
