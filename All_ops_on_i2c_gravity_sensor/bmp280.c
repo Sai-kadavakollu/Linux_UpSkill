@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: GPL-2.0
+// SPDX-License-Identifier: GPL-2.0.0
 /*
  * bmp280_custom.c - BMP280 I2C Temperature & Pressure Sensor Driver
  *
